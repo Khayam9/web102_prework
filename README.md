@@ -34,7 +34,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I'd like to express my appreciation for the exceptional quality of the prework, where I gained valuable insights throughout each project. It surpassed other online learning platforms in effectively teaching concepts such as functions, operators, if-else statements, and more. While working on the project, I encountered a challenge when attempting to push it to GitHub. Unfortunately, I lost all my code during this process. Fortunately, I had a backup copy saved elsewhere. After dedicating a day to resolve the GitHub pushing issue unsuccessfully, I made the decision to delete the existing repository on GitHub, re-fork the web102_prework repository, copy my code from another IDE to VS Code, and finally successfully push the project while including a GIF.
 
 ## License
 
